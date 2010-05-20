@@ -1,0 +1,3 @@
+[submodule "js/pprint"]
+	path = js/pprint
+	url = git://github.com/bendlas/prettyPrint.js.git
