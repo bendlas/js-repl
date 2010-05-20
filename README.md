@@ -3,6 +3,8 @@ js-repl
 
 First working version with history and pretty printing
 
+[You can try it here.](http://bendlas.github.com/js-repl/)
+
 Tested in IE6, Opera, FF, Chromium
 
 Dependencies
